@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import "../pages/Design.css"
 import axios from 'axios';
-import Spinner from '../components/Spinner';
 import "../components/Spinner.css"
 
 const Design = () => {

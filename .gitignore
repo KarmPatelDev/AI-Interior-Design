@@ -1,2 +1,2 @@
-frontend/node_modules
-model/venv
+/frontend/node_modules
+/model/venv
